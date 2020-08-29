@@ -1,3 +1,5 @@
+import time
+
 class Counter:
     def __init__(self, function):
         self.runs = 100
